@@ -10,6 +10,7 @@
 main:
   - title: "CV"
     url: /files/Bhati_cv.pdf
+    target: "_blank"
 
   - title: "Research"
     url: /research/
