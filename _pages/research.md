@@ -5,13 +5,12 @@ author_profile: true
 redirect_from: 
   - /research/
 ---
+
 ## Research Interests
 
 I am interested in understanding how to further democratize nonprofit and civil society organizations by giving voice to marginalized communities and increasing their effectiveness in solving complex problems arising from both government and market failures. 
 
 My current research focuses on how growing competition to attract new donations affects nonprofits’ fundraising strategies, including social media use for attracting and retaining donors and its effects on their organizational structure and relationships with beneficiaries.
-
-<br>
 
 <iframe src="https://player.vimeo.com/video/789853477?h=adbbe25ef6" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
