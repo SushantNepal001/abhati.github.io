@@ -13,7 +13,7 @@ main:
     target: "_blank"
 
   - title: "Research"
-    url: /research/
+    url: /research
 
   # - title: "Publications"
   #   url: /publications/
@@ -45,4 +45,4 @@ main:
     url: /talks/ 
 
   - title: "Contact"
-    url: /Contact/
+    url: /contact/

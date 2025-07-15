@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Homepage"
+title: "👋🏻 Hello, Welcome to my websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## 👋🏻 Hello, Welcome to my website
-
 I am an Associate Professor of Political Science and Director of the Asian Studies Program at [Bowling Green State University](http://bgsu.edu/).
 
 My overarching research agenda lies at the intersection of nonprofit and civil society organizations, political science, and public administration. In particular, I am interested in understanding how nonprofits generate resources and the role they play in reducing structural social, economic, and political inequalities. I also study how the state either promotes or curtails the freedom of nonprofits and civil societies, both in the U.S. and in comparative contexts.
