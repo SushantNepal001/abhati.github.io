@@ -14,9 +14,7 @@ My current research focuses on how growing competition to attract new donations 
 
 <!-- ## Peer Reviewed Articles -->
 
-- Abhishek Bhati and [Diarmuid McDonnell](https://scholar.google.com/citations?user=TaR1F1QAAAAJ&hl=en) (2025).  
-  "Message Content and Diversity as an Effective Nonprofit Fundraising Strategy on Social Media."  
-  *Nonprofit and Voluntary Sector Quarterly*. [Link](https://journals.sagepub.com/doi/abs/10.1177/08997640241303920)
+- Abhishek Bhati and [Diarmuid McDonnell](https://scholar.google.com/citations?user=TaR1F1QAAAAJ&hl=en)(2025)."Message Content and Diversity as an Effective Nonprofit Fundraising Strategy on Social Media." *Nonprofit and Voluntary Sector Quarterly*. [Link](https://journals.sagepub.com/doi/abs/10.1177/08997640241303920){:target="_blank"}
   <details>
   <summary style="list-style: none; cursor: pointer;">
     <span class="btn btn--info" style="width: 100%; display: block; text-align: center; margin-bottom: 1rem; color : blue">
@@ -29,9 +27,7 @@ My current research focuses on how growing competition to attract new donations 
   </details>
 
 
-- Abhishek Bhati(https://example.com) and [Andrew Burk](https://www.unomaha.edu/college-of-public-affairs-and-community-service/public-administration/research-centers/digital-governance-and-analytics-lab/staff/andrew.php) (2024).  
-  "The Landscape of Community-Based Giving Days in the United States."  
-  *The Foundation Review*. [Link](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1674&context=tfr)
+- Abhishek Bhati and [Andrew Burk](https://www.unomaha.educollege-of-public-affairs-and-community-service/public-administration/research-centers/digital-governance-and-analytics-lab/staff/andrew.php) (2024). "The Landscape of Community-Based Giving Days in the United States."*The Foundation Review*. [Link](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1674&context=tfr){:target="_blank"}
   <details>
   <summary style="list-style: none; cursor: pointer;">
     <span class="btn btn--info" style="width: 100%; display: block; text-align: center; margin-bottom: 1rem; color : blue">
@@ -44,9 +40,7 @@ My current research focuses on how growing competition to attract new donations 
   </details>
 
 
-- [Ma, Yinglin](https://government.eku.edu/people/ma), [Erynn Beaton](https://glenn.osu.edu/erynn-beaton), and Abhishek Bhati (2022).
-  "Sexual Harassment Policies in Nonprofits."
-  *Nonprofit Management and Leadership*. [Link](https://onlinelibrary.wiley.com/doi/10.1002/nml.21526)
+- [Ma, Yinglin](https://government.eku.edu/people/ma), [Erynn Beaton](https://glenn.osu.edu/erynn-beaton), and Abhishek Bhati (2022)."Sexual Harassment Policies in Nonprofits. *Nonprofit Management and Leadership*. [Link](https://onlinelibrary.wiley.com/doi/10.1002/nml.21526){:target="_blank"}
   <details>
   <summary style="list-style: none; cursor: pointer;">
     <span class="btn btn--info" style="width: 100%; display: block; text-align: center; margin-bottom: 1rem; color : blue">
@@ -58,9 +52,7 @@ My current research focuses on how growing competition to attract new donations 
   </div>
   </details>
 
-- Bhati, Abhishek (2022).
-  "What can Postcolonial Theory Contribute to the Study of Social Equity?"
-  *Public Administration Review*. [Link](https://onlinelibrary.wiley.com/doi/10.1111/puar.13523)
+- Bhati, Abhishek (2022)."What can Postcolonial Theory Contribute to the Study of Social Equity?"*Public Administration Review*. [Link](https://onlinelibrary.wiley.com/doi/10.1111/puar.13523){:target="_blank"}
   <details>
   <summary style="list-style: none; cursor: pointer;">
     <span class="btn btn--info" style="width: 100%; display: block; text-align: center; margin-bottom: 1rem; color : blue">
@@ -72,9 +64,7 @@ My current research focuses on how growing competition to attract new donations 
   </div>
   </details>
 
-- Bhati, Abhishek (2021).  
-  "Is the Representation of Beneficiaries by International Nongovernmental Organizations (INGOs) Still Pornographic?"  
-  *Journal of Philanthropy and Marketing*. [Link](https://doi.org/10.1002/nvsm.1722)
+- Bhati, Abhishek (2021). "Is the Representation of Beneficiaries by International Nongovernmental Organizations (INGOs) Still Pornographic?"  *Journal of Philanthropy and Marketing*. [Link](https://doi.org/10.1002/nvsm.1722){:target="_blank"}
   <details>
   <summary style="list-style: none; cursor: pointer;">
     <span class="btn btn--info" style="width: 100%; display: block; text-align: center; margin-bottom: 1rem; color : blue">
@@ -87,7 +77,7 @@ My current research focuses on how growing competition to attract new donations 
   </details>
 
 - Bhati, Abhishek (2021)."What Implicit Racial Bias has got to do with Giving? Learnings from Fundraising Experiment."  
-  *VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations*. [Link](https://link.springer.com/article/10.1007/s11266-020-00277-8)
+  *VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations*. [Link](https://link.springer.com/article/10.1007/s11266-020-00277-8){:target="_blank"}
   - Won Best Paper Award in VOLUNTAS for the Year 2020.
   - Selected Press: [*The Conversation*](https://theconversation.com/prejudice-against-people-with-darker-skin-may-make-donors-less-generous-147891).
   <details>
@@ -101,9 +91,7 @@ My current research focuses on how growing competition to attract new donations 
   </div>
   </details>
 
-- Bhati, Abhishek and [Ruth Hansen](https://www.uww.edu/cobe/cobe-directory/profile?id=hansenru) (2020).  
-  "A Literature Review of Studies in Fundraising Using Experimental Methods."  
-  *Journal of Behavioral Public Administration*. [Link](https://journal-bpa.org/index.php/jbpa/article/view/129)
+- Bhati, Abhishek and [Ruth Hansen](https://www.uww.edu/cobe/cobe-directory/profile?id=hansenru) (2020). "A Literature Review of Studies in Fundraising Using Experimental Methods." *Journal of Behavioral Public Administration*. [Link](https://journal-bpa.org/index.php/jbpa/article/view/129){:target="_blank"}
   <details>
   <summary style="list-style: none; cursor: pointer;">
     <span class="btn btn--info" style="width: 100%; display: block; text-align: center; margin-bottom: 1rem; color : blue">
@@ -115,9 +103,8 @@ My current research focuses on how growing competition to attract new donations 
   </div>
   </details>
 
-- [Brown, Catherine](https://www.linkedin.com/in/catherine-h-brown-326b033?trk=public_profile_browsemap) and Abhishek Bhati (2019).  
-  "Growth of Community-Based Giving Days in the United States: The Landscape and Effects."  
-  *The Foundation Review*. [Link](https://scholarworks.gvsu.edu/tfr/vol11/iss3/5/)
+- [Brown, Catherine](https://www.linkedin.com/in/catherine-h-brown-326b033?trk=public_profile_browsemap) and Abhishek Bhati (2019). "Growth of Community-Based Giving Days in the United States: The Landscape and Effects."  
+  *The Foundation Review*. [Link](https://scholarworks.gvsu.edu/tfr/vol11/iss3/5/){:target="_blank"}
   <details>
   <summary style="list-style: none; cursor: pointer;">
     <span class="btn btn--info" style="width: 100%; display: block; text-align: center; margin-bottom: 1rem; color : blue">
@@ -133,9 +120,7 @@ My current research focuses on how growing competition to attract new donations 
   </div>
   </details>
 
-- Bhati, Abhishek and [Angela M. Eikenberry](https://www.unomaha.edu/college-of-public-affairs-and-community-service/public-administration/about-us/faculty-staff/angela-eikenberry.php) (2016).  
-  "Faces of the Needy: The Portrayal of Destitute Children in the Fundraising Campaigns of NGOs in India."  
-  *International Journal of Nonprofit and Voluntary Sector Marketing*. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/nvsm.1542)
+- Bhati, Abhishek and [Angela M. Eikenberry](https://www.unomaha.edu/college-of-public-affairs-and-community-service/public-administration/about-us/faculty-staff/angela-eikenberry.php) (2016). "Faces of the Needy: The Portrayal of Destitute Children in the Fundraising Campaigns of NGOs in India." *International Journal of Nonprofit and Voluntary Sector Marketing*. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/nvsm.1542){:target="_blank"}
   <details>
   <summary style="list-style: none; cursor: pointer;">
     <span class="btn btn--info" style="width: 100%; display: block; text-align: center; margin-bottom: 1rem; color : blue">
@@ -147,9 +132,7 @@ My current research focuses on how growing competition to attract new donations 
   </div>
   </details>
 
-- Bhati, Abhishek and [Mathew J. Manimala](https://scholar.google.com/citations?user=djEa50sAAAAJ&hl=en) (2011).  
-  "Talent Acquisition and Retention in Social Enterprises."  
-  *Journal of Security and Sustainability Issues*. [Link](https://repository.iimb.ac.in/handle/2074/11723)
+- Bhati, Abhishek and [Mathew J. Manimala](https://scholar.google.com/citations?user=djEa50sAAAAJ&hl=en) (2011). "Talent Acquisition and Retention in Social Enterprises."*Journal of Security and Sustainability Issues*. [Link](https://repository.iimb.ac.in/handle/2074/11723){:target="_blank"}{:target="_blank"}
   <details>
   <summary style="list-style: none; cursor: pointer;">
     <span class="btn btn--info" style="width: 100%; display: block; text-align: center; margin-bottom: 1rem; color : blue">
@@ -165,41 +148,40 @@ My current research focuses on how growing competition to attract new donations 
 
 ## Peer Reviewed Book Chapters
 - Bhati, Abhishek and [Angela M. Eikenberry](https://publicpolicy.uconn.edu/person/angela-eikenberry/) (2023).  
-  ["A Critical Fundraising Perspective: Understanding the Beneficiary Experience. The Fundraising Reader"](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003145936-69/critical-fundraising-perspective-understanding-beneficiary-experience-abhishek-bhati-angela-eikenberry).
+  ["A Critical Fundraising Perspective: Understanding the Beneficiary Experience. The Fundraising Reader"](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003145936-69/critical-fundraising-perspective-understanding-beneficiary-experience-abhishek-bhati-angela-eikenberry){:target="_blank"}.
 
-- Bhati, Abhishek and [Ruth Hansen](2023).  
-  ["A Critical Fundraising Perspective: Understanding the Beneficiary Experience. The Fundraising Reader"](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003145936-69/critical-fundraising-perspective-understanding-beneficiary-experience-abhishek-bhati-angela-eikenberry).
+- Bhati, Abhishek and [Ruth Hansen](2023).["A Critical Fundraising Perspective: Understanding the Beneficiary Experience. The Fundraising Reader"](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003145936-69/critical-fundraising-perspective-understanding-beneficiary-experience-abhishek-bhati-angela-eikenberry){:target="_blank"}.
 
-- Bhati, Abhishek and [Angela M. Eikenberry](https://www.unomaha.edu/college-of-public-affairs-and-community-service/public-administration/about-us/faculty-staff/angela-eikenberry.php) (2021).  
+- Bhati, Abhishek and [Angela M. Eikenberry](https://www.unomaha.edu/college-of-public-affairs-and-community-service/public-administration/about-us/faculty-staff/angela-eikenberry.php){:target="_blank"} (2021).  
   "Decolonizing International Nongovernmental Organizations (INGOs) Fundraising Narrative."  
   In *The Handbook of Critical Perspectives on Nonprofit Organizing and Voluntary Action*.
 
-- Bhati, Abhishek and [Jon Dean](https://www.shu.ac.uk/about-us/our-people/staff-profiles/jon-dean) (2021).  
+- Bhati, Abhishek and [Jon Dean](https://www.shu.ac.uk/about-us/our-people/staff-profiles/jon-dean){:target="_blank"} (2021).  
   "Charity advertising: Visual Methods, Images and Elicitation."  
-  In [*Researching Voluntary Action: Innovations and Challenges*](https://policy.bristoluniversitypress.co.uk/researching-voluntary-action).
+  In [*Researching Voluntary Action: Innovations and Challenges*](https://policy.bristoluniversitypress.co.uk/researching-voluntary-action){:target="_blank"}.
 
-- Bhati, Abhishek and [Angela M. Eikenberry](https://www.unomaha.edu/college-of-public-affairs-and-community-service/public-administration/about-us/faculty-staff/angela-eikenberry.php) (2019).  
+- Bhati, Abhishek and [Angela M. Eikenberry](https://www.unomaha.edu/college-of-public-affairs-and-community-service/public-administration/about-us/faculty-staff/angela-eikenberry.php){:target="_blank"} (2019).  
   "A Critical Fundraising Perspective: Understanding the Beneficiary Experience."  
-  In [*Reframing Nonprofit Organizations: Democracy, Inclusion, and Social Change*](https://reframingnonprofits.wordpress.com/).
+  In [*Reframing Nonprofit Organizations: Democracy, Inclusion, and Social Change*](https://reframingnonprofits.wordpress.com/){:target="_blank"}.
 
 ---
 
 ## Policy and Program Evaluation Reports
 
 - "Julia Wang & Abhishek Bhati (2024). Government-Run National Relief Funds in Asia During COVID-19 Pandemic. International Center for Not-For-Profit Law."  
-   [Link](https://www.icnl.org/wp-content/uploads/Covid-relief-funds-in-Asia-report-final-v2.pdf)
+   [Link](https://www.icnl.org/wp-content/uploads/Covid-relief-funds-in-Asia-report-final-v2.pdf){:target="_blank"}
 
 - "Ohio Nonprofit COVID-19 Survey. A Report of Wave 3 Results."  
-  *Philanthropy Ohio* and *Ohio Attorney General*. [Link](https://charitable.ohioago.gov/getattachment/7968d302-9358-4ba9-b3f6-3c825312a2d1/Ohio-Nonprofit-COVID-19-Survey-Wave-3-Report)
+  *Philanthropy Ohio* and *Ohio Attorney General*. [Link](https://charitable.ohioago.gov/getattachment/7968d302-9358-4ba9-b3f6-3c825312a2d1/Ohio-Nonprofit-COVID-19-Survey-Wave-3-Report){:target="_blank"}
 
 - "Omaha Gives! 2015 Evaluation."  
-  *Omaha Community Foundation Report*. [Link](https://www.dropbox.com/s/7j5k9drpbmqxm79/OG-15-Eval%20Report.pdf?dl=0)
+  *Omaha Community Foundation Report*. [Link](https://www.dropbox.com/s/7j5k9drpbmqxm79/OG-15-Eval%20Report.pdf?dl=0){:target="_blank"}
 
 - "Omaha Gives! 2014 Evaluation."  
-  *Omaha Community Foundation Report*. [Link](https://www.dropbox.com/s/vfprix1l03s24gk/OG-14%20Eval%20Report.pdf?dl=0)
+  *Omaha Community Foundation Report*. [Link](https://www.dropbox.com/s/vfprix1l03s24gk/OG-14%20Eval%20Report.pdf?dl=0){:target="_blank"}
 
 - "Omaha Gives! 2013 Evaluation."  
-  *Omaha Community Foundation Report*. [Link](https://www.dropbox.com/s/0cym27opyb7jj91/OG-13%20Eval%20Report.pdf?dl=0)
+  *Omaha Community Foundation Report*. [Link](https://www.dropbox.com/s/0cym27opyb7jj91/OG-13%20Eval%20Report.pdf?dl=0){:target="_blank"}
 
 ---
 
