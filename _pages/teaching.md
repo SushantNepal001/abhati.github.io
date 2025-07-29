@@ -28,4 +28,3 @@ To achieve this, I create an engaging and meaningful learning experience by usin
 - **POLS 6280: Government Budget and Fiscal Policy (MPA)**  
   This course provides an overview of public finance, budgeting, and fiscal decision-making in the public and nonprofit sectors. The course covers key topics in public finance and budgeting and aims to provide students an opportunity to learn some essential skills for financial analysis, which are central to becoming good managers.
 
-

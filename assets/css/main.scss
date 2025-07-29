@@ -10,9 +10,9 @@
 
  .author__avatar img {
   width: 500px !important;  /* Or your desired width */
-  height: 300px !important; /* Or your desired height */
+  height: 200px !important; /* Or your desired height */
   object-fit: cover;      /* Helps prevent the image from stretching */
-  border-radius: 50%;     /* Optional: Makes the image a circle */
+  border-radius: 0 !important;     /* Optional: Makes the image a circle */
 }
 
 @import
